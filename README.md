@@ -10,8 +10,6 @@ Paralelamente, soy creador y mantenedor de productos digitales independientes en
 
 </div>
 
-<br>
-
 ---
 
 ## 🚀 Lo que hago
@@ -21,54 +19,6 @@ Paralelamente, soy creador y mantenedor de productos digitales independientes en
 - 🗄️ **Bases de Datos Enterprise:** Modelamiento, optimización y gestión en PostgreSQL, Oracle, SQL Server y MySQL.
 - 📱 **SaaS & Mobile:** Desarrollo e integración de plataformas en producción y apps móviles.
 - 🤖 **Innovación & Datos:** Aplicación de Inteligencia Artificial mediante Machine Learning y Procesamiento del Lenguaje Natural (NLP).
-
-<br>
-
----
-
-## 🌟 Productos & Proyectos Destacados
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <br>
-      <h3>💼 SaaS Facturación Electrónica</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-      </p>
-      <p>Plataforma web comercial en producción para la gestión de ventas, emisión de comprobantes electrónicos y control de inventarios de manera automatizada.</p>
-    </td>
-    <td width="50%" align="center">
-      <br>
-      <h3>📱 Apps Google Play Store</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-        <img src="https://img.shields.io/badge/Mobile-00AFFF?style=for-the-badge&logo=googleplay&logoColor=white">
-      </p>
-      <p>Aplicaciones móviles publicadas y monetizadas en la tienda oficial de Google, enfocadas en experiencia de usuario, alto rendimiento y consumo de APIs.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br>
-      <h3>🏛️ Soluciones Enterprise — INEI</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-      </p>
-      <p>Desarrollo e implementación de sistemas de información gubernamentales a gran escala, procesamiento masivo de datos e integración de microservicios robustos.</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
 
 ---
 
@@ -84,18 +34,14 @@ Paralelamente, soy creador y mantenedor de productos digitales independientes en
 
 </div>
 
-<br>
-
 ---
 
-## ⚙️ GitHub Analytics
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marko-chacon&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Marko" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marko-chacon&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marko-chacon&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Marko" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marko-chacon&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="150"/>
 </div>
-
-<br>
 
 ---
 
@@ -108,6 +54,6 @@ Paralelamente, soy creador y mantenedor de productos digitales independientes en
 
 </div>
 
-<br>
+---
 
 > 💡 *Nota: Por acuerdos de confidencialidad (NDA) y protección de propiedad intelectual, el código fuente de los proyectos empresariales y productos monetizados se encuentra alojado en repositorios privados.*
