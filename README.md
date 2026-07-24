@@ -46,7 +46,7 @@ Paralelamente, soy creador y mantenedor de productos digitales independientes en
 
 ## 🌐 Conéctate conmigo
 
-- 💼 **LinkedIn:** [linkedin.com/in/markochacon](https://linkedin.com)
+- 💼 **LinkedIn:** [linkedin.com/in/marko-chacon](https://www.linkedin.com/in/marko-chacon)
 - 🌐 **Portafolio Web:** *(Próximamente)*
 - ✉️ **Contacto:** [tu-email@correo.com](mailto:tu-email@correo.com)
 
