@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Marko Chacón 👋
+# ¡Hola! Soy Marko Chacon 👋
 
 ### Ingeniero de Sistemas | Desarrollador Full Stack & Arquitectura de Software
 
