@@ -40,14 +40,14 @@ Paralelamente, soy creador y mantenedor de productos digitales independientes en
 
 <div align="center">
   <a href="https://github.com/marko-chacon">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marko-chacon&show_icons=true&theme=tokyonight&border_radius=12&border_color=3b82f6&count_private=true&title_color=61afef&text_color=abb2bf&icon_color=e06c75" alt="Estadísticas de Marko" />
+    <img height="170" style="margin: 0 8px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marko-chacon&show_icons=true&theme=tokyonight&border_radius=25&border_color=3b82f6&count_private=true&title_color=61afef&text_color=abb2bf&icon_color=e06c75" alt="Estadísticas de Marko" />
   </a>
   <a href="https://github.com/marko-chacon">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marko-chacon&layout=compact&theme=tokyonight&border_radius=12&border_color=3b82f6&title_color=61afef&text_color=abb2bf&hide=html,css" alt="Lenguajes más usados" />
+    <img height="170" style="margin: 0 8px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marko-chacon&layout=compact&theme=tokyonight&border_radius=25&border_color=3b82f6&title_color=61afef&text_color=abb2bf&hide=html,css" alt="Lenguajes más usados" />
   </a>
-  <br><br>
+  <br>
   <a href="https://github.com/marko-chacon">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=marko-chacon&theme=tokyonight&border_radius=12&border=3b82f6" alt="Racha de contribuciones" />
+    <img height="170" style="margin-top: 15px;" src="https://github-readme-streak-stats.herokuapp.com/?user=marko-chacon&theme=tokyonight&border_radius=25&border=3b82f6" alt="Racha de contribuciones" />
   </a>
 </div>
 
