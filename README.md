@@ -40,14 +40,14 @@ Paralelamente, soy creador y mantenedor de productos digitales independientes en
 
 <div align="center">
   <a href="https://github.com/marko-chacon">
-    <img src="https://github-profile-trophy.vercel.app/?username=marko-chacon&theme=onedark&column=4&margin-w=15&no-frame=true" alt="Trofeos GitHub" />
+    <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marko-chacon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=61afef&text_color=abb2bf&icon_color=e06c75" alt="Estadísticas de Marko" />
+  </a>
+  <a href="https://github.com/marko-chacon">
+    <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marko-chacon&layout=compact&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&hide=html,css" alt="Lenguajes más usados" />
   </a>
   <br><br>
   <a href="https://github.com/marko-chacon">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marko-chacon&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estadísticas de Marko" />
-  </a>
-  <a href="https://github.com/marko-chacon">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marko-chacon&layout=compact&theme=dracula&hide_border=true&hide=html,css" alt="Lenguajes más usados" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=marko-chacon&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
   </a>
 </div>
 
