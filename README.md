@@ -39,8 +39,8 @@ Paralelamente, soy creador y mantenedor de productos digitales independientes en
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marko-chacon&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Marko" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marko-chacon&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="150"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marko-chacon&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de Marko" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marko-chacon&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 ---
