@@ -40,10 +40,14 @@ Paralelamente, soy creador y mantenedor de productos digitales independientes en
 
 <div align="center">
   <a href="https://github.com/marko-chacon">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marko-chacon&show_icons=true&theme=onedark&border_radius=8&border_color=3b82f6&count_private=true" alt="Estadísticas de Marko" />
+    <img src="https://github-profile-trophy.vercel.app/?username=marko-chacon&theme=onedark&column=4&margin-w=15&no-frame=true" alt="Trofeos GitHub" />
+  </a>
+  <br><br>
+  <a href="https://github.com/marko-chacon">
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marko-chacon&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estadísticas de Marko" />
   </a>
   <a href="https://github.com/marko-chacon">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marko-chacon&layout=compact&theme=onedark&border_radius=8&border_color=3b82f6&hide=html,css" alt="Lenguajes más usados" />
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marko-chacon&layout=compact&theme=dracula&hide_border=true&hide=html,css" alt="Lenguajes más usados" />
   </a>
 </div>
 
